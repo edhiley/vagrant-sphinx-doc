@@ -6,6 +6,10 @@ using [vagrant](http://vagrantup.com) and [livereload](https://github.com/leptur
 
 # Instructions
 
+Clone this repo.
+
+Navigate to directory.
+
 Install vagrant (from vagrantup)
 
 Start up vagrant 
