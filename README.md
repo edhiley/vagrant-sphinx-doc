@@ -10,7 +10,9 @@ Clone this repo.
 
 Navigate to directory.
 
-Install vagrant (from vagrantup)
+Install vagrant from [vagrantup](http://downloads.vagrantup.com/)
+
+Install virtual box (if not already installed) from [virtualbox downloads](https://www.virtualbox.org/wiki/Downloads)
 
 Start up vagrant 
 
